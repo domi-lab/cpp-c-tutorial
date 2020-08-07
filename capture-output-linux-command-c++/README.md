@@ -12,4 +12,6 @@ How to run:
 - run: run_app.sh
 
 Reference:
+- http://www.jonathanbeard.io/tutorials/Mixed_C_C++
+
 
