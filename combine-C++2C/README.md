@@ -11,4 +11,6 @@ How to run:
 - cd combine-C++2C
 - run: run_app.sh
 
+Reference:
+- https://www.jeremymorgan.com/tutorials/c-programming/how-to-capture-the-output-of-a-linux-command-in-c/
 
