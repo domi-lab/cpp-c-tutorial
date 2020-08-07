@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/do/workspace/domi-lab/cpp-c-tutorial/capture-output-linux-command-c++/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+

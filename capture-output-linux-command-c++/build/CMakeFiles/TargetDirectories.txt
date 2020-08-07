@@ -1,0 +1,3 @@
+/home/do/workspace/domi-lab/cpp-c-tutorial/capture-output-linux-command-c++/build/CMakeFiles/edit_cache.dir
+/home/do/workspace/domi-lab/cpp-c-tutorial/capture-output-linux-command-c++/build/CMakeFiles/rebuild_cache.dir
+/home/do/workspace/domi-lab/cpp-c-tutorial/capture-output-linux-command-c++/build/CMakeFiles/run_app.dir
